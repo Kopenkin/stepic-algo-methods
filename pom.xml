@@ -35,6 +35,7 @@
     </build>
     <modules>
         <module>greedy</module>
+        <module>divideandconquer</module>
     </modules>
 
 </project>
