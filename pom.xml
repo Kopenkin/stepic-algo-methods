@@ -36,6 +36,7 @@
     <modules>
         <module>greedy</module>
         <module>divideandconquer</module>
+        <module>dynamic</module>
     </modules>
 
 </project>
